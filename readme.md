@@ -6,5 +6,5 @@
 4. Create a homework project 1
 5. Do a branch, and merge locally as well as on Github
 
-##Request
+## Request Homework
 Hello Professor
